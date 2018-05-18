@@ -1,5 +1,6 @@
-# golang版本实现
-# 核心算法和数据结构是我目前阅读过最高效的斗地主算法
+# golang版本实现斗地主核心算法
+# 高效的数据结构实现核心算法
+# author:Michael email:dolotech@163.com
 
 
                                 type AnalyseCards uint64
