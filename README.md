@@ -1,5 +1,5 @@
 # golang版本实现斗地主核心算法
-# 高效的数据结构实现核心算法
+# 紧凑的数据结构高效核心算法
 # author:Michael email:dolotech@163.com
 
 
