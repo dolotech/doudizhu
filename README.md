@@ -1,8 +1,9 @@
-# golang版本实现斗地主核心算法
-# 紧凑的数据结构高效核心算法
-# author:Michael email:dolotech@163.com
+# Go版本实现斗地主核心算法
+#### 紧凑的数据结构高效核心算法
+#### Author:Michael 
+#### Email:<dolotech@163.com>
 
-
+```go
                                 type AnalyseCards uint64
 
                                 func (this *AnalyseCards) Set(cards []byte) {
@@ -183,3 +184,4 @@
                                         this.SetValue(0)
                                         this.SetKind(0)
                                 }
+```
