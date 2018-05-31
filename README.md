@@ -1,7 +1,5 @@
 # Go版本实现斗地主核心算法
 #### 紧凑的数据结构高效核心算法
-#### Author:Michael 
-#### Email:<dolotech@163.com>
 
 ```go
                                 type AnalyseCards uint64
